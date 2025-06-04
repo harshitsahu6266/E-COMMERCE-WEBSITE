@@ -58,8 +58,7 @@ After doing changes save the DBConnect.java file.
 
 Right Click On Project > Run As > Run On Server > Select Tomcat V8.0+ > Next > Finish
 
-Now Website will get open, if not, then try opening it manually in Browser, Type Url: http://localhost:8082/EcommerceApp
-
+Now Website will get open, if not, then try opening it manually in Browser, 
 Note: In Url put Port according to your server.
 
 Some Screenshots of this Project:

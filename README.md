@@ -1,6 +1,6 @@
 E COMMERCE WEBSITE
 Take a look at this Application
-url:harshitsahu6266/E-COMMERCE-WEBSITE/edit/main/README.md
+url:https//github.com/harshitsahu6266/E-COMMERCE-WEBSITE/edit/main/README.md
 
 It is Java J2EE Application. Build in Eclipse IDE using Maven.
 It is an Online Electronic Shopping Application.

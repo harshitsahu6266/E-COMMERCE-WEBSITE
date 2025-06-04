@@ -31,8 +31,7 @@ Select Projects from Git(with smart import) -> Next
 
 Select Clone URI -> Next
 
-In URI paste this url: https://github.com/swapnilbamble1438/EcommerceApp.git -> Next
-
+In URI paste this url: https://github.com/harshitsahu6266/E-COMMERCE-WEBSITE/edit/main/README.md
 Now in Local Destination
 
 proceed -> Next
